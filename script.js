@@ -77,7 +77,7 @@ window.onload = function(){
     Swal.fire({
         icon: 'success',
         title: 'Welcome',
-        html: 'HAPPY BIRTHDAY POONAM',
+        html: 'HAPPY BIRTHDAY POOJA DII',
         footer: '&copy All rights reserved !'
     });
     
@@ -88,7 +88,7 @@ window.onload = function(){
     
     /*type writer effect logic --------------------*/
     var _CONTENT = [ 
-        "Hay There POONAM", 
+        "Hay There POOJA DII", 
         "kaisi ho ? 😌", 
         "Mast hi hogi.", 
         "Aacha Wait !",
